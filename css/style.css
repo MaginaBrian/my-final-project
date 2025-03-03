@@ -72,12 +72,12 @@ nav a:hover {
     display: flex;
     justify-content: center;
     color: #583F7B;
-    .img{
-        height: 50px;
-        width: 50px;
-        padding: auto;
-    }
-
+    
+}
+.content > img {
+	border-radius: 5%;
+	padding: auto;
+	
 }
 .content > div {
     display: flex;
